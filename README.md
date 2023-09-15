@@ -18,7 +18,7 @@
 
 ## Links
 
-- [Model Match Pro](https://model-match.vercel.app/)
+- [Model Match Pro](https://model-match-fe.vercel.app/search)
 
 ## Set-up
 
